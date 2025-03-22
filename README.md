@@ -85,5 +85,5 @@ MIT License. See `LICENSE` file for details.
 
 ---
 
-For any issues, contact [Your Name] at [Your Email].
+For any issues, contact Hersh Thakkar at hershthakkar31@gmail.com.
 
