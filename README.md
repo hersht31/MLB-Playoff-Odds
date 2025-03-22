@@ -6,7 +6,7 @@ The **MLB Playoff Odds** app provides real-time updates on Major League Baseball
 ## Features
 - **Live Playoff Odds:** Displays up-to-date playoff probabilities for all MLB teams.
 - **Real-Time Scores:** Fetches live game scores and updates automatically.
-- **Spring Training Standings:** Organizes standings based on Grapefruit and Cactus Leagues.
+- **Spring Training Standings:** Currently organizes standings based on Grapefruit and Cactus Leagues.
 - **Team Logos:** Displays team logos alongside names.
 - **Dynamic Data Fetching:** Uses Swift's `@StateObject` and `@State` to update UI when new data is received.
 
