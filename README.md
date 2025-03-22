@@ -76,14 +76,9 @@ var cactusTeams: [Team] {
    - Check API response format and verify `fetchLiveScores()` function.
 
 ## Future Enhancements
-- Add player stats for each team.
+- Add team homepage with upcoming schedule and game calendar.
 - Improve UI with animations and interactive charts.
-- Support for Dark Mode.
-
-## License
-MIT License. See `LICENSE` file for details.
-
----
+- LLM chatbot integration for up-to-date baseball news and stats.
 
 For any issues, contact Hersh Thakkar at hershthakkar31@gmail.com.
 
